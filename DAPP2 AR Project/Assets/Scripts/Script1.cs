@@ -4,7 +4,7 @@ using UnityEngine;
 
 // Make change in github
 
-// change stuff 001
+// change stuff 00101
 public class Script1 : MonoBehaviour
 {
     // Start is called before the first frame update
